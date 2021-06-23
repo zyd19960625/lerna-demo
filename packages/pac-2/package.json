@@ -1,5 +1,5 @@
 {
-  "name": "pac-2",
+  "name": "zed-pac-2",
   "version": "0.0.6",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
@@ -22,5 +22,5 @@
   "dependencies": {
     "pac-1": "^0.1.2"
   },
-  "gitHead": "fd34ca50ee4fe52a371723a46c36dd716ce7eec7"
+  "gitHead": "3466c84b5e7d329e8b09462f9e07ded5bda26b8d"
 }
